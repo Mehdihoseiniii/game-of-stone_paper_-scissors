@@ -1,0 +1,6 @@
+github.com/MeirKriheli/python-bidi v0.6.6 h1:PRKuZsOskHsocWHjoIVliOSDnL38Idyzr3RTjykh1iw=
+github.com/MeirKriheli/python-bidi v0.6.6/go.mod h1:adehgqzAFHrop5+klHLEiTW+DJpcRF1I581bs9d5SOw=
+github.com/hopewise/ArabicShaper v0.0.0-20140716114912-2c45000f1fac h1:OWcLkkdZTNfGzrhPZ5hzgpGQAqnnOZMbHfvK+fMf96A=
+github.com/hopewise/ArabicShaper v0.0.0-20140716114912-2c45000f1fac/go.mod h1:4WtHWLWormLKEFbQxtQOC1KDsuRNrKsIHzo5nGRcAo4=
+github.com/ravarage/go-arabic-reshaper v0.1.4 h1:A42HFBPxEd/fhwkCceETbG3i5ai677WobQX9Obr4RbU=
+github.com/ravarage/go-arabic-reshaper v0.1.4/go.mod h1:UDW36FV0WNHuHAyixQAovOB+Skw9XjMW1UVtpgs++RY=
